@@ -15,7 +15,6 @@ kiwisolver==1.4.4
 latex==0.7.0
 llvmlite==0.39.1
 MarkupSafe==2.1.2
-matplotlib==3.6.3
 numba==0.56.4
 numpy==1.23.5
 packaging==23.0
