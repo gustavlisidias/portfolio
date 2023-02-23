@@ -16,7 +16,6 @@ latex==0.7.0
 llvmlite==0.39.1
 MarkupSafe==2.1.2
 numba==0.56.4
-numpy==1.23.5
 packaging==23.0
 Pillow==9.4.0
 pymprog==1.1.2
