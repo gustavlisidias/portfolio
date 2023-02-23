@@ -26,3 +26,4 @@ swiglpk==5.0.8
 tempdir==0.7.1
 Werkzeug==2.2.3
 zipp==3.11.0
+gunicorn
