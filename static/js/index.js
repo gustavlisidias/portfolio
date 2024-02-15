@@ -1,7 +1,7 @@
-var typed = new Typed('#typed', {stringsElement: '#typed-strings'});
+var typed = new Typed('#typed', { stringsElement: '#typed-strings' });
 
 particlesJS('particles-js',
-  
+
   {
     "particles": {
       "number": {
